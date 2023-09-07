@@ -1,16 +1,7 @@
 # tafeel_task
 
-A new Flutter project.
+The flutter version used : Channel stable, 3.7.5
 
-## Getting Started
+The dart version used : 2.19.2 (stable)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The demo screen record : https://drive.google.com/file/d/1Trc7RFj-uX5c-JThIXyrApF9QiyXFBsI/view?usp=sharing
